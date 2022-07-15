@@ -3,7 +3,7 @@
 I'm Daniel, currently studying Computer Science in Germany. I am a linux enthusiast and love to customize my Dotfiles all day long.
 I'm planning to invest more time to open-source projects and getting more involved in the open-source community.
 
-[![Hummr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hummr01)](https://github.com/anuraghazra/github-readme-stats)
+[![Hummr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hummr01&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hummr01/Hummr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
