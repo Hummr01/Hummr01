@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Daniel, currently studying Computer Science in Germany. I am a linux enthusiast and love to customize my Dotfiles all day long.
+I'm planning to invest more time to open-source projects and getting more involved in the open-source community.
 <!--
 **Hummr01/Hummr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
